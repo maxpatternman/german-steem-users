@@ -15,6 +15,7 @@ Alle Listen können dabei einzeln eingesehen und verwendet werden.
 | Liste | Beschreibung |
 | --- | --- |
 | manually-blacklist | Manuell erstelle Blacklist |
+| bots | Bot-Liste |
 
 ### How to Contribute
 Wenn ihr auch beitragen möchtet, könnt ihr das, indem ihr selber Listen erstellt oder die Datein manually-users oder manually-blacklist bearbeitet.
