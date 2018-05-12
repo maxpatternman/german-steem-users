@@ -5,7 +5,7 @@ import os
 def listeAuslesen(listePfad):
     """Liest Nutzer aus einer Datei und gibt sie als Menge zurück"""
     mengeNutzer = set()
-    with open(listePfad) as datei:
+    with open(listePfad, encoding='utf-8') as datei:
         for nutzer in datei:
             mengeNutzer.add(nutzer.rstrip())
     return mengeNutzer
@@ -25,7 +25,7 @@ def finaleListeSchreiben(listeFinal):
     """Schreibt german-steem-users.txt aus der finalen Menge"""
     listeFinal = list(listeFinal)
     listeFinal.sort()
-    with open('german-steem-users.txt', 'w') as datei:
+    with open('german-steem-users.txt', encoding='utf-8', mode='w') as datei:
         for nutzer in listeFinal:
             datei.write(nutzer + "\n")
 
