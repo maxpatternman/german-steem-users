@@ -9,7 +9,8 @@ Alle Listen können dabei einzeln eingesehen und verwendet werden.
 | Liste | Beschreibung |
 | --- | --- |
 | manually-users | Manuell erstelle Nutzerliste |
-| 2018-05-10-tagging-deutsch-10-letze-beitraege | Durchsuchte von allen Nutzern die letzten 10 Beiträge. War ein "deutsch" tagging dabei, ist dieser Nutzer dabei. |
+| tagging-deutsch-rolling-update | Regelmäßiges Update von Nutzern, die neue Post mit dem Tag 'deutsch' veröffentlichen |
+| 2018-05-10-tagging-deutsch-10-letze-beitraege-korrektur | Durchsuchte von allen Nutzern die letzten 10 Beiträge auf den Tag 'deutsch'. Diese Liste wurde wegen eines Fehlers korrigiert. |
 
 ## Verzeichnis blacklists
 | Liste | Beschreibung |
