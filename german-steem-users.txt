@@ -971,6 +971,7 @@ dergrafvonborg
 derhexer
 derhorus
 deriom
+derkleinepfadi
 derkontrahent
 derlukas
 dermitdermaske
@@ -1288,6 +1289,7 @@ fabianklauder
 fabianwald
 fabio
 fabiodasilva
+fabish
 facger99
 fadertogrey
 fairfoodbike
@@ -1384,6 +1386,7 @@ flow-joe
 flowa
 flowen
 flowflowsen
+flowse
 floww
 flugschwein
 flurgx
@@ -1471,6 +1474,7 @@ fundigital
 funflam
 funster
 funtwo
+future24
 futurejob
 futurestyler
 futurethinking
@@ -1559,6 +1563,7 @@ gesundundfroh
 getdigital
 gewinnspiele
 gexi
+gflorianmewtu
 gfsalvato
 ghitier
 ghost06
@@ -1998,6 +2003,7 @@ jaycem
 jayfox
 jaynai
 jayzon
+jazzinside
 jazzmine
 jazzysheikh
 jb-design
@@ -2076,6 +2082,7 @@ jogi
 johann01
 johannaunterwegs
 johannesgrothe
+johano
 johempel
 john-borchert
 john.difool
@@ -2380,6 +2387,7 @@ lamaisonjeandel
 lan-taverne
 landglut
 lanty
+laoura
 laraventure
 larissalisa
 larry50
@@ -2439,6 +2447,7 @@ leongraphicson
 leonheinz
 leonnowsden
 leontr
+leopart
 leosalltag
 leosbigstory
 leranion
@@ -2620,6 +2629,7 @@ madmarc
 madmeister
 madthebad
 madtv
+maeusenews
 magata
 magerbeton
 magetanbonar
@@ -2917,6 +2927,7 @@ milonmia
 mima2606
 mimeto
 mimmy
+mindbusters
 mindmotivation
 mindreloveution
 mindscapephotos
@@ -3011,6 +3022,7 @@ moritz68
 moritzsattler
 moritzsch
 morris0
+mortyc137
 motorrad
 motte
 mountain.phil28
@@ -3173,6 +3185,7 @@ new-generation
 newlifestyle
 newmovies
 newpangea
+newsandfacts
 newsocrates
 newsontour
 newtrends
@@ -3407,6 +3420,7 @@ patriciarok
 patrick26
 patrick93
 patrickczu
+patricklenart
 patricktanner
 patriotch
 patschfx
@@ -3466,6 +3480,7 @@ phoenixproject
 photo-master
 photographer89
 photographie
+photomoto
 photonenblende
 photowebgear
 photowilli
@@ -3523,6 +3538,7 @@ porky11
 porky12
 portalmine
 portzelfix
+positivertag
 postface
 pot87
 pottlund
@@ -3633,6 +3649,7 @@ raorac
 raphael89
 raphaelhuber
 raphi
+rappammel
 raptor223
 raseltrs
 rastalady
@@ -3649,6 +3666,7 @@ rc-chris
 rclager
 rcshad0w
 ready2steem
+real-sir-robin
 real.aleksandar
 realentrepreneur
 reallifehack
@@ -3706,6 +3724,7 @@ reworthed
 reynoldd
 rezept
 rhob0t
+riandifc
 ribow
 ricardo1977
 ricardotorres
@@ -3728,6 +3747,7 @@ rjvgfc1993
 rkft
 rn78
 rnh93
+ro-slow
 roadtrips
 roalkege
 roamtheplanet
@@ -3868,6 +3888,7 @@ sara-neuwied
 sarahfldb
 sarahfrombahama
 sarahkl
+sarahsa
 sarala
 saraswati
 sarita13
@@ -4323,6 +4344,7 @@ tabu
 tagesschau
 tahir1010
 tahref
+taine
 takeyourchance
 taktikfreunde
 taldor
@@ -4943,6 +4965,7 @@ yusmerlys
 z3r0d4yz
 zahnspange
 zakura
+zamanhuri05
 zaneskizm
 zangmore
 zapzarap
