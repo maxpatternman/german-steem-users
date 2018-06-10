@@ -7,7 +7,7 @@ def ListeResteemsSchreiben(nutzer_resteem):
     """Schreibt eine Liste der Resteems von Neuvorstellungen"""
     nutzer_resteem = list(nutzer_resteem)
     nutzer_resteem.sort()
-    with open('./users/neuvorstellungen_resteems',
+    with open('../users/neuvorstellungen_resteems',
               encoding='utf-8',
               mode='w') as datei:
         for nutzer in nutzer_resteem:
@@ -18,7 +18,7 @@ def ListeKommentareSchreiben(nutzer_kommentare):
     """Schreibt eine Liste der Kommentare von Neuvorstellungen"""
     nutzer_kommentare = list(nutzer_kommentare)
     nutzer_kommentare.sort()
-    with open('./users/neuvorstellungen_kommentare',
+    with open('../users/neuvorstellungen_kommentare',
               encoding='utf-8',
               mode='w') as datei:
         for nutzer in nutzer_kommentare:

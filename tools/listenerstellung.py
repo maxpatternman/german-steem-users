@@ -25,7 +25,7 @@ def finaleListeSchreiben(listeFinal):
     """Schreibt german-steem-users.txt aus der finalen Menge"""
     listeFinal = list(listeFinal)
     listeFinal.sort()
-    with open('german-steem-users.txt', encoding='utf-8', mode='w') as datei:
+    with open('../german-steem-users.txt', encoding='utf-8', mode='w') as datei:
         for nutzer in listeFinal:
             datei.write(nutzer + "\n")
 
@@ -40,8 +40,8 @@ def bericht(users_int, blacklist_int, usersFinal_int):
 
 
 def main():
-    verzeichnisseNutzer = ['users']
-    verzeichnisseBlacklists = ['blacklists']
+    verzeichnisseNutzer = ['../users']
+    verzeichnisseBlacklists = ['../blacklists']
     # Nutzer
     for verzeichnis in verzeichnisseNutzer:
         users = listenverzeichnisOeffnen(verzeichnis)
