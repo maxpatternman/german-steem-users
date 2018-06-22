@@ -18,7 +18,6 @@ adamicelli
 addape
 addbit0908
 adelheid
-aditus
 adra
 adrianschnell
 adversarius
@@ -110,7 +109,6 @@ amanitamuscaria
 amateurpom
 ameis
 amigalink
-amnlive
 an225045
 ananasjuice
 anarchofacebook
@@ -414,7 +412,6 @@ blocket
 blocklab
 blockmedia
 blockpit
-blockrocket
 blog1860
 bloggermanu
 bloodkratos
@@ -472,7 +469,6 @@ brotagnist
 brudaj
 brunner081
 brunold
-bryanlin
 bs1155
 bselekt
 btc-dialog
@@ -833,7 +829,6 @@ david95
 davidcashtv
 davidcross
 daviddanys
-davidkru
 davidsprotv
 davidstrohmer
 davinci.art
@@ -844,7 +839,6 @@ day-of-june
 dd5tn
 ddb-netzwerk
 ddcut
-ddot
 de-stem
 de-travelfeed
 de360
@@ -1027,7 +1021,6 @@ dragonator
 dragondarn
 dragonho
 draketheman
-dravenstales
 drbrnfckr
 dreaded-seeker
 dreckigesdutzend
@@ -1046,7 +1039,6 @@ dschey
 dschul
 dubmove
 duebelhorst
-duendeath
 duremarr
 dustinboettge
 dvw
@@ -1211,7 +1203,6 @@ fabian-elefant
 fabianklauder
 fabianwald
 fabio
-fabiodasilva
 fabish
 fadertogrey
 failfiziert
@@ -1586,7 +1577,6 @@ hanffreunde
 hanniballecter
 hanniii
 hans-leininger
-hans88
 hansbrecht
 hanzo-sports
 hanzo85
@@ -1667,7 +1657,6 @@ hidden-truth
 highcarbjens
 highfps
 highlife4life
-highonthehog
 highscoredropout
 highviziontv
 hikingdune
@@ -1764,7 +1753,6 @@ ichtestenurmal
 icoinvestings
 icountedzero
 ideaslikeflames
-idegbe007
 idiotenwatch
 idoneitas
 ifinder
@@ -1824,7 +1812,6 @@ ipaultech
 ippua
 irgendwer82
 irgendwo
-ironsibby
 irrer-ivan
 irwpress
 isabellaklais
@@ -2266,7 +2253,6 @@ lauriihunter
 lautrerbomber
 lavazzi
 lavje
-lavradis
 lawking
 laylahsophia
 laylaney
@@ -2590,7 +2576,6 @@ marmorkuchenyt
 marmuc100
 martellus
 marthastardust
-martin-senior
 martin.gallist
 martin087
 martin1209407
@@ -2862,7 +2847,6 @@ mphoto
 mr-hades
 mr-oldschool
 mr-panda
-mr0x50
 mrbutternuss
 mrfabilicious
 mrfinkelstein
@@ -2887,6 +2871,7 @@ mrweirdowski
 mrwiktor
 mrx0
 msdev
+msicc
 mtbmathi
 mtheisen
 mudin
@@ -2906,7 +2891,6 @@ musicgeek
 musik
 muttermorphose
 muxu
-muzee1
 mvrgio
 mwfiae
 mwi
@@ -3065,7 +3049,6 @@ nitin7
 niwade
 njoy.thejourney
 noa969
-noahsteed12
 noblesimplicity
 nobodyonline
 nockuno
@@ -3193,7 +3176,6 @@ otakunomiyaki
 otc
 otcgoek
 otronik
-otti1000
 ottomanempire
 oululahti
 outtrade
@@ -3279,7 +3261,6 @@ pfefferspray
 pfeil
 pharaodma
 pharesim
-pharmacygirl
 phc
 phil-83
 philanthrope
@@ -3537,7 +3518,6 @@ rittr
 rivalzzz
 riyanah
 rizatr
-rjvgfc1993
 rkft
 rn78
 rnh93
@@ -3597,7 +3577,6 @@ roxs
 roy2016
 roy92
 royalcoaching
-royaltokens
 rpgdan
 rschneider
 rsmellg
@@ -3728,7 +3707,6 @@ scorpeus
 scrappycoco
 screenit
 scruvi
-sdl1987
 seaside-owt
 sebacrush
 sebako
@@ -3794,7 +3772,6 @@ shirocca
 shizzo
 shlomit
 shoggoth
-shortafella
 shortcut
 shubaki
 shwanflume
@@ -3970,8 +3947,6 @@ steemit-germany
 steemit.klebt
 steemit.nemesis
 steemitandy
-steemitcitizen
-steemitmoney
 steemitpolitics
 steemitstocks
 steemitwelt
@@ -4018,7 +3993,6 @@ stockhauser
 stocki
 stoecklin
 stoffel15
-stonedgames
 stoorm
 storepheus
 storykitchen
@@ -4090,7 +4064,6 @@ swiper
 swisssteembeat
 swisswatcher
 swordfish2
-syampadusen
 sybozz
 synthonie
 synthporn
@@ -4231,7 +4204,6 @@ thewall2202
 thewayiseethings
 thiemworkhamburg
 thilobillerbeck
-thimom
 thinkabout
 thinkandgrowrich
 thinkdigital
@@ -4510,7 +4482,6 @@ vonhandfotografy
 vonosterhal
 votes
 votingbastard
-vovanbib
 vpgtube
 vr1733
 vril888
@@ -4709,7 +4680,6 @@ zematix
 zenigeva
 zerberster
 zeropointmax
-zerotec
 zettt
 zeuss11
 zfchris
