@@ -29,7 +29,7 @@ def main():
     a = Account('neuvorstellungen')
     # Resteems
     menge_nutzer_resteems = set()
-    for nutzer in a.get_blog_account():
+    for nutzer in a.get_blog_authors():
         menge_nutzer_resteems.add(nutzer[0])
     ListeResteemsSchreiben(menge_nutzer_resteems)
     # Kommentare
