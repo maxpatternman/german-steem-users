@@ -9,8 +9,8 @@ Alle Listen können dabei einzeln eingesehen und verwendet werden.
 | Liste | Beschreibung |
 | --- | --- |
 | manually-users | Manuell erstelle Nutzerliste |
-| tagging-deutsch-rolling-update | Regelmäßiges Update von Nutzern, die neue Post mit dem Tag 'deutsch' veröffentlichen |
-| 2018-05-10-tagging-deutsch-10-letze-beitraege-korrektur | Durchsuchte von allen Nutzern die letzten 10 Beiträge auf den Tag 'deutsch'. Diese Liste wurde wegen eines Fehlers korrigiert. |
+| neuvorstellungen_resteems | Alle Nutzer, welche von @neuvorstellungen resteemed wurden. |
+| neuvorstellungen_kommentare | Alle Nutzer, welche von @neuvorstellungen kommentiert wurden. |
 
 ## Verzeichnis blacklists
 | Liste | Beschreibung |
