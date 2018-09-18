@@ -112,6 +112,7 @@ allrounddesigns
 alltech
 allthereis
 allvideo
+allyouneedtoknow
 almarlene
 almi
 alpha.steem
@@ -245,6 +246,7 @@ askeron
 asmr-austria
 asperger-kids
 assetgainz
+assyfa
 astridschulz
 astrophoto.kevin
 atax
@@ -787,6 +789,7 @@ crasher91
 crazye
 crazywolf
 creative-life
+creeperm4ster
 creepostadm
 crimo
 criptoivan-de
@@ -829,6 +832,7 @@ cryptokatt
 cryptoknowhow
 cryptoleen
 cryptolene
+cryptompminer
 cryptomum
 cryptonator
 cryptonerd1291
@@ -969,6 +973,7 @@ deepdog
 deepeshgarg
 deepimpulse
 deeppicturesde
+deewonka
 deffi-show
 definition
 defnord
@@ -1534,6 +1539,7 @@ freunddeswaldes
 fridajoecrep
 fridolin
 friedrichfischer
+friendly10alien
 fritjofk
 fritzkerschi
 fritzmich
@@ -1637,6 +1643,7 @@ gerryrichter
 gertraud
 gerusan
 gerw
+geschichte
 geschichten
 gesund-leben
 gesunde-seele
@@ -2249,6 +2256,7 @@ juunge
 juwaview
 k-easy
 k3lda
+kaan1982
 kadeemazoni
 kadna
 kaffeebart81
@@ -2317,6 +2325,7 @@ kerumaplays
 kes.bruun
 keser
 kevinalda1990
+kevindeby
 kevinramboo
 kevtoz
 keyblade
@@ -2354,6 +2363,7 @@ kisiel126
 kissi
 kissxsis
 kitchenbirds
+kizarugamez
 kkaos
 kkndworld
 kladiph
@@ -2440,6 +2450,7 @@ kryptomat
 kryptomist
 kryptonator
 kryptorero
+kryptoron
 kryptozoo
 kuchenkruemel
 kuestenkind
@@ -2909,6 +2920,7 @@ matthiasrobertz
 mattl
 matts
 matx
+mauleylol
 maulizaeffendi
 mauricebestmann
 mauricesg
@@ -2996,6 +3008,7 @@ meril
 merkur
 merlinderzocker1
 merrij
+mers
 meself
 mesyria
 metrebot
@@ -3498,6 +3511,7 @@ ostseestrand
 otakunomiyaki
 otc
 otcgoek
+otom
 otronik
 oululahti
 outdoorpotatoes
@@ -3590,6 +3604,7 @@ peule
 pewdiefake
 pfefferspray
 pfeil
+pgjones
 phantoffel
 pharaodma
 pharesim
@@ -3665,6 +3680,7 @@ politikstube
 pollux.one
 polson
 polymorphin
+pompe72
 porky11
 porky12
 portalmine
@@ -4055,6 +4071,7 @@ schranzritter
 schreiblust
 schuelep
 schuesselglueck
+schufa
 schurik
 schuwall
 schwanenfuss
@@ -4292,6 +4309,7 @@ sportfrei
 sportsgeek
 sportsmanmike
 sportstyle
+sportwetten
 spottiks
 spraychilled
 springtoifel
@@ -4304,6 +4322,7 @@ srbsteemit
 ssjkamui
 st58
 stadex
+stahlnetzrd
 stane
 starfreak
 starttoglow
@@ -4347,6 +4366,7 @@ steemmember
 steemon
 steemornot
 steempavo
+steemrente
 steemsheep
 steemshop
 steemtastic
@@ -4433,6 +4453,7 @@ suppercraft5000
 supporter-of-fbd
 surebu
 surejeeen
+surfermarly
 surfmoment
 surripio
 survivalparaguay
@@ -4576,6 +4597,7 @@ thegermangirl
 thegermanguy
 thegothiccheater
 theguymasamato
+thehipsterguru
 theissen
 thekao
 theknowing
@@ -4726,6 +4748,7 @@ tradingfuchs
 trafo
 traindriver
 trampelpfad
+transformator
 traquil
 trasgu
 traumwerkstatt
@@ -4875,7 +4898,9 @@ vergamez
 vgs-jessica
 vgt36
 victoria.sounds
+videomacher
 videopool
+videosfactory
 vieanna
 vielzeitplayer
 vienna-calling
@@ -5091,6 +5116,7 @@ yemum1no
 yesterdaymorning
 yf2002
 yima
+yinyang13
 ylich
 yng-entrepreneur
 yo-landi
