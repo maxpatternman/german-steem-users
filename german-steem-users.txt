@@ -119,6 +119,7 @@ alpha.steem
 altcointraderorg
 alternatiflos
 altobee
+altofit
 altonos
 alu42
 alucian
@@ -335,6 +336,7 @@ beate
 beatlach
 beatminister
 beckenbauer
+beckenrand
 becky1307
 bedee
 bee-me
@@ -380,6 +382,7 @@ bernhard.everett
 bernhardmaehr
 bernichannel
 bernsteinhaus
+berthold
 berxen
 besick
 besold
@@ -418,6 +421,7 @@ bit1985
 bitandi
 bitcoin-blog
 bitcoin.news
+bitcoincurry
 bitcoinearn-de
 bitcoinmartin
 bitcoinmuc
@@ -595,6 +599,7 @@ caravanci
 carim
 carinthia89
 carita-feliz
+carl-coin
 carllogan
 carloserp2000
 carmpulse
@@ -979,6 +984,7 @@ definition
 defnord
 defuszed
 degrimmis
+deichkind
 dein-smarthome
 deineip
 deinelebensart
@@ -1094,6 +1100,7 @@ dirksen
 dirkzett
 dirkzett-english
 discovertheworld
+dishtennis
 ditschiman
 divtv
 dizum
@@ -1749,6 +1756,7 @@ h3ck02g
 h3nn1ng
 haaku
 haasj
+habermas
 hackspoiler
 hacksteak
 hades95
@@ -1817,6 +1825,7 @@ hbphotography
 hdrr
 healingmushroom
 healtheworld
+healthness
 heartspecialist
 heastbistdeppad
 heiidii
@@ -2004,7 +2013,9 @@ infernalsaaahne
 infinitelearning
 infinityroad
 infinityworld
+infokrieg
 infoman
+informa
 informatiktube
 infovonhier
 ingenuus
@@ -2143,6 +2154,7 @@ jim-borasso-band
 jimmler79
 jingis
 jinjan
+jirkamarek
 jjb777
 jjle83
 jjmax
@@ -2446,6 +2458,7 @@ kryptokrat
 kryptoladies
 kryptolibertyflo
 kryptologe
+kryptomagazin
 kryptomat
 kryptomist
 kryptonator
@@ -2840,6 +2853,7 @@ margemellow
 marginis
 marhaban
 marielue
+mariepoprinz
 marimerida
 mariogarcia
 marion-bender
@@ -2892,6 +2906,7 @@ masaya
 maschennkaart
 masculumlibertas
 massackre
+masserelation
 master-m
 master206
 masterlike
@@ -3071,6 +3086,7 @@ minka
 minkoni72
 mirakel
 mirejam
+miriquidi
 mirkmarvel
 mirsad96
 misan
@@ -3156,6 +3172,7 @@ motte
 mountain.phil28
 mowe
 mowjow
+moxy76
 mphoto
 mr-hades
 mr-oldschool
@@ -3608,6 +3625,7 @@ pgjones
 phantoffel
 pharaodma
 pharesim
+phasewalker
 phash
 phc
 phil-83
@@ -3724,6 +3742,7 @@ prosirius
 prospertylife
 prp-lgbt
 pruecel
+psychedelisch
 psycho-gaming
 psyer
 psywalker
@@ -4199,6 +4218,7 @@ simple.pure.katy
 simply-that
 simplywomen
 simsibee
+siniwelt
 sinkova
 siphon
 sirbruce92
@@ -4253,6 +4273,7 @@ snakevoid
 snapamarcjon
 snaptgen
 snarf
+snoere
 snurk
 sodack
 sodom
@@ -4345,6 +4366,7 @@ steemcatcher
 steemcaty
 steemchiller
 steemcon2k
+steemcuration
 steemdogs
 steemer0815
 steemergy
@@ -4388,6 +4410,7 @@ stefworldtravel
 stehaller
 steinreich
 stekz42
+stelina
 stempst0r
 stephan.luminus
 stephanie-ha
@@ -4464,6 +4487,7 @@ suyuimo
 sven.liebich
 sven.schorokhov
 sven.teichmann
+svengadget
 svenis
 svenkegel
 svenparow
@@ -4548,6 +4572,7 @@ teddymonster
 tehaix
 teiem
 teko
+telecreator
 telegraf
 tempusillusio
 teo
@@ -4719,6 +4744,7 @@ tommyfire112
 tomnoble
 tomsalem
 tomschlaiss
+tomski43
 tomsolid
 tomtheone
 tonkatonka
@@ -4875,6 +4901,7 @@ validem
 valkyrion
 valoon
 vampirgarfield
+vanillagirl
 vanity.porn
 vanquish
 vardashde
