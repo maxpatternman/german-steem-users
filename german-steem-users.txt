@@ -1,6 +1,7 @@
 a-dalora
 aachenizzy
 aaronkoenig
+aaronkroeblinger
 aartosalo
 aasmck
 aava
@@ -14,6 +15,7 @@ acconitum
 ace55515
 acedawnmusic
 acehhitler
+acesontop
 achim03
 achimbornemann
 achimmertens
@@ -189,6 +191,7 @@ animeheavende
 aniralf2000
 anjadani
 anjadietrich
+anjanida
 anjinsan
 anjoke
 anli
@@ -277,6 +280,7 @@ astridschulz
 astrophoto.kevin
 atax
 atego
+atimkaranezi93
 atinycrab
 atleastitried
 atra-aranea
@@ -462,6 +466,7 @@ bitcoin-blog
 bitcoin.news
 bitcoincurry
 bitcoinearn-de
+bitcoinjake09
 bitcoinmartin
 bitcoinmuc
 bitcoinpit
@@ -581,6 +586,7 @@ brickmotion
 brickster
 bricktop
 brigant-tv
+bright-present
 briji
 bringhand
 britcore
@@ -1226,6 +1232,7 @@ dolargar
 domii.net
 dominikrub
 dominique.koenig
+dominique.miller
 don-t
 don-thomas
 donaromar
@@ -1305,6 +1312,7 @@ eddwood
 edel
 edgreif
 educatedbuffer
+educreator
 edyazoimar
 edzardloesing
 eeastside-bbq
@@ -1587,6 +1595,7 @@ floww
 fluentbavarian
 flugschwein
 flurgx
+flurin
 fly-in-the-sky
 fly88
 flyerchen
@@ -1798,6 +1807,7 @@ gianlucas
 giannasilva
 gidme
 gigantlepchen
+gillianpearce
 gio89
 giorgiomarino
 gizmo1277
@@ -2119,6 +2129,7 @@ iamhuman
 iamkiki
 iamtom
 iapetos
+ibc
 ibromann
 ic4reign
 iceblue
@@ -2221,9 +2232,11 @@ ivansnz
 iven
 ivonne
 iwei
+j-p-bs
 j4k0b
 jaba
 jac777
+jacey.boldart
 jackchase
 jackraptor
 jacksonman
@@ -2279,6 +2292,7 @@ jeannart
 jeannedarc
 jeanpi1908
 jeanviete
+jedali
 jederkannimmo
 jedigeiss
 jeelito
@@ -3074,6 +3088,7 @@ mariannewest
 mariaweber091
 marielue
 mariepoprinz
+mariita52
 marimerida
 mariogarcia
 marion-bender
@@ -3895,6 +3910,7 @@ pepelyuga
 peppermint24
 pepperred
 per-asperum
+pereu4ivatel
 perfectgalaxy
 perlentaucherin
 perspektive
@@ -4029,6 +4045,7 @@ privatebank
 pro-emit
 proanima
 problemkind
+profquax
 projectchaos19
 projecthome
 projekt-art-fund
@@ -4618,6 +4635,7 @@ smithgold
 smoke-some-frogs
 smooms
 smoothies
+smsmb-votebot
 sn0wfl4ke
 snackaholic
 snakevoid
@@ -4726,6 +4744,7 @@ steem.talk
 steem2themoon
 steemalliance-de
 steemarity
+steembay
 steemberlin
 steemcartel
 steemcatcher
@@ -4845,6 +4864,7 @@ sumsum
 sunlover
 sunni
 sunnybronx
+sunnygogo
 sunnymoses
 sunnyside
 sunnyway
@@ -4892,11 +4912,13 @@ sylvias
 sylvieb
 synthonie
 synthporn
+szf
 szr-network
 szr52
 t-arslan
 t-milian-invest
 t0ax
+t3chcrunch
 tabea
 tabealouise
 tabislick
@@ -5199,6 +5221,7 @@ travelution
 travelwithus
 trdjn
 trendygirl
+trentox
 trestor
 tribar
 tributent
@@ -5245,6 +5268,7 @@ twentythree23
 twiesel
 twinkleberry
 twinner
+twisla
 twkaiser
 twomoon
 twomoronic
